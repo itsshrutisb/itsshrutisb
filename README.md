@@ -3,13 +3,13 @@
 </p>
 <h1 align="center">Hi 👋, I'm Shruti Balivada</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
-<img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th/id/OIP.Z8DQIHsvEhd7AkJYXc86SwHaHa?pid=Api&P=0&h=180">
+<img align="right" alt="coding" width="200" src="https://tse4.mm.bing.net/th/id/OIP.Z8DQIHsvEhd7AkJYXc86SwHaHa?pid=Api&P=0&h=180">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshrutisb&label=Profile%20views&color=0e75b6&style=flat" alt="itsshrutisb" /> </p>
 
 - 📫 How to reach me **itsshrutisb@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -18,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsshrutisb&show_icons=true&locale=en&layout=compact" alt="itsshrutisb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshrutisb&show_icons=true&locale=en" alt="itsshrutisb" /></p>
