@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/itsshrutisb/itsshrutisb/blob/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="logo" width="300" />
+  <img src="https://github.com/itsshrutisb/itsshrutisb/blob/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="logo" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Shruti Balivada</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
