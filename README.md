@@ -1,4 +1,6 @@
-![logo](https://github.com/itsshrutisb/itsshrutisb/blob/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif)
+<p align="center">
+  <img src="https://github.com/itsshrutisb/itsshrutisb/blob/main/Woman%20Coding%20GIF%20by%20Pluralsight.gif" alt="logo" width="300" />
+</p>
 <h1 align="center">Hi 👋, I'm Shruti Balivada</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
 <img align="right" alt="coding" width="400" src="https://tse4.mm.bing.net/th/id/OIP.Z8DQIHsvEhd7AkJYXc86SwHaHa?pid=Api&P=0&h=180">
